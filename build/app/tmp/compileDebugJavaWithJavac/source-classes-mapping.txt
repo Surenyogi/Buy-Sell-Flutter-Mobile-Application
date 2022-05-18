@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/onlinedeck/onlinedeck/BuildConfig.java
+ com.onlinedeck.onlinedeck.BuildConfig

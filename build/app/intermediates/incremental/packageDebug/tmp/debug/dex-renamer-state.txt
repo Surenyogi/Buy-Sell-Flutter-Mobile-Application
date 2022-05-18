@@ -1,0 +1,4 @@
+#Tue May 03 23:17:55 NPT 2022
+base.0=D\:\\STUDY MATERIALS\\5th Sem\\FYP\\Application\\online-deck-mobile-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
