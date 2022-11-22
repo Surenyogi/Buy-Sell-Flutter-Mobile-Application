@@ -445,6 +445,9 @@ class _ProfileState extends State<Profile> {
   }
 
   void showChangePasswordDialog(BuildContext context) {
+    final _oldPasswordController = TextEditingController();
+    final _newPasswordController = TextEditingController();
+    final _confirmPasswordController = TextEditingController();
     showModalBottomSheet(
       useRootNavigator: true,
       shape: const RoundedRectangleBorder(
@@ -452,11 +455,8 @@ class _ProfileState extends State<Profile> {
       ),
       context: context,
       builder: (context) {
-        final _oldPasswordController = TextEditingController();
-        final _newPasswordController = TextEditingController();
-        final _confirmPasswordController = TextEditingController();
-        bool _isLoading = false;
         return StatefulBuilder(builder: (ctx, myState) {
+          bool _isLoading = false;
           return Scaffold(
             body: Container(
               padding: const EdgeInsets.all(20),

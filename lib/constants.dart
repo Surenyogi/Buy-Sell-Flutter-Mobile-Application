@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 //if running in emulator use localhost otherwise server IP
-const String kBaseUrl = 'http://192.168.1.8:3000';
+const String kBaseUrl = 'http://100.64.208.237:3000';
 
 const Color kGrey = Color(0xFF66707A);
 
