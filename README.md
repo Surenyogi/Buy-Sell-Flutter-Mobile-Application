@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+## Screenshots of the Application
+# Login Registration
 
-This project is a starting point for a Flutter application.
+![login register](https://user-images.githubusercontent.com/93629793/203263942-c853501c-c4ee-4a75-96e9-7fdb7b50118c.png)
 
-A few resources to get you started if this is your first Flutter project:
+# Admin panel
+![admin panel](https://user-images.githubusercontent.com/93629793/203264013-76a1ec0b-4556-441c-b863-221d19b24f63.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Application
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![application](https://user-images.githubusercontent.com/93629793/203264084-1a10f34c-7e81-47a2-b69f-f38d843c359d.png)
